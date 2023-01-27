@@ -1,6 +1,6 @@
 import React from 'react'
-import LoginPage from '../../components/Login'
-import Navbar from '../../components/Navbar'
+import LoginPage from '../../components/login'
+import Navbar from '../../components/navbar'
 const Login = () => {
     return (
         <>
